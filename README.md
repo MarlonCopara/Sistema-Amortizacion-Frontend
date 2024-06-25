@@ -8,7 +8,7 @@ Follow these steps to set up and run the frontend application.
 
 1. **Clone the Repository**: Clone the repository to your local machine and navigate to the project directory.
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/MarlonCopara/Sistema-Amortizacion-Frontend.git
     cd Sistema-Amortizacion-Frontend
     ```
 
